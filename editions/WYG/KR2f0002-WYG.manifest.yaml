@@ -1,0 +1,126 @@
+canonical_identifier: bkk:krp/KR2f0002/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2f0002/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太宗文皇帝聖訓
+  date: '2015-08-24 22:30:46.754574'
+  source:
+    repository: kanripo
+    path: KR2f0002
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2f0002_000-WYG.yaml, hash: 'sha256:0dfe1d7d19d2ea125dbe8c74d42495cfca8c9cd87daddf8fc0f6eed8f7290f62'}
+  - {seq: 1, filename: KR2f0002_001-WYG.yaml, hash: 'sha256:d35d7f0480f8c605ebbd3482452a90529c8693e5f70a520b2c38ef760394f92e'}
+  - {seq: 2, filename: KR2f0002_002-WYG.yaml, hash: 'sha256:fdf89fe8bcd356e4c163c59f265cf485dfd86cd042568deabb36ec369f1ee473'}
+  - {seq: 3, filename: KR2f0002_003-WYG.yaml, hash: 'sha256:da5e7bd1443accb1dea68fa6c3fc59769c57fa62afe0af3f7cf32e9b649c73c4'}
+  - {seq: 4, filename: KR2f0002_004-WYG.yaml, hash: 'sha256:0a94b2c325540a9185917ce07b5f24056ebf5b3ab0e8b0fb79d3c4d12887844a'}
+  - {seq: 5, filename: KR2f0002_005-WYG.yaml, hash: 'sha256:e0e3648405e31b91d17d4f9f7c4deef20055a858dd17c3271a57b49a1b6f3ab0'}
+  - {seq: 6, filename: KR2f0002_006-WYG.yaml, hash: 'sha256:c3d6d389f15b4a1236da631ab4ee0efc9a4b0df27564a7077efccb506ab5bb59'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2f0002_000-WYG.markers.yaml, hash: 'sha256:957fb66d633a35d8bc8faab372b90596365d1d7f7749cf6a5fe28de161e51790'}
+  - {seq: 1, role: markers, filename: assets/KR2f0002_001-WYG.markers.yaml, hash: 'sha256:29e8c96484f343a716d026e95eba78aad4ba540e1c833be30d8a1047ab53cfbe'}
+  - {seq: 2, role: markers, filename: assets/KR2f0002_002-WYG.markers.yaml, hash: 'sha256:0cca0b389498bbd0ab3514db9002a38517bebb17c2d5d9504006973a47ac6c06'}
+  - {seq: 3, role: markers, filename: assets/KR2f0002_003-WYG.markers.yaml, hash: 'sha256:f56826062c82040275a014bc7a705e690928c5ba685b06d95891f82dd4fa9f7d'}
+  - {seq: 4, role: markers, filename: assets/KR2f0002_004-WYG.markers.yaml, hash: 'sha256:12aa96f14134b1918f46d8eac642928889f69b4234713337c52bfaca6e7c0292'}
+  - {seq: 5, role: markers, filename: assets/KR2f0002_005-WYG.markers.yaml, hash: 'sha256:5b3efcb59621b78be4c743244eea2f232f53ad51383b97150f6490e26cea0c01'}
+  - {seq: 6, role: markers, filename: assets/KR2f0002_006-WYG.markers.yaml, hash: 'sha256:5224b1e4efd5bdf8a73b7dc0e96e8c6aa87675f8f016d0e3effb0b688024e459'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 461
+  label: 序康熙二十六年三月二十七日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-3a
+    span:
+    - body
+    - 461
+    - 1001
+  label: 序乾隆四年十月初十日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-5a
+    span:
+    - body
+    - 1001
+    - 1441
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2f0002_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4753
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2f0002_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 6209
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2f0002_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 3476
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2f0002_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 5561
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2f0002_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 5168
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2f0002_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 3971
+  label: 卷六
+  type: section
+  level: 1
+hash: sha256:7d361db8eac2e0e63b9ce8910c437197d42480c61b223db3165bd0d7f3ee4fbc

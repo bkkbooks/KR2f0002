@@ -1,0 +1,132 @@
+canonical_identifier: bkk:krp/KR2f0002/v1
+canonical_location: https://kanripo.org/bkk/KR2f0002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太宗文皇帝聖訓
+  date: '2015-08-24 22:30:46.754574'
+  source:
+    repository: kanripo
+    path: KR2f0002
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2f0002_000.yaml, hash: 'sha256:28c22dacfa693c364ffd056269b30d3a2aeb27fef65e06d894d3efe4bbbadfc9'}
+  - {seq: 1, filename: KR2f0002_001.yaml, hash: 'sha256:5a7b5f5d66199ed646a170a7d04e925b0e9e15297ad720242fce1c6e941c5b3e'}
+  - {seq: 2, filename: KR2f0002_002.yaml, hash: 'sha256:d964dbe1aa9bff89649f21c2239858ba9806b1e08744f9e86ebc83baf54ab4bf'}
+  - {seq: 3, filename: KR2f0002_003.yaml, hash: 'sha256:09c7c2a16e86310a8bfd35a136e7520988dc4938f1b1ae6de6d9a11925b0670c'}
+  - {seq: 4, filename: KR2f0002_004.yaml, hash: 'sha256:1a067f84b6b3c2fd71dd94a3964347ab9805ff5398c4bcacf1dba2f5e0f07b34'}
+  - {seq: 5, filename: KR2f0002_005.yaml, hash: 'sha256:29cd7737b3b936dcb6c12b760250d929b6cf9682b91deb727756550cb1dc9539'}
+  - {seq: 6, filename: KR2f0002_006.yaml, hash: 'sha256:6d9c51aef4c7433611a578875cf1e014c896aaf535f8f31630772d7f8b7b1d97'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2f0002_000.markers.yaml, hash: 'sha256:f89fdf5de43a90ab86b04a432072d8fa5bb11628fefba43ba8db7a36f5bb24f8'}
+  - {seq: 1, role: markers, filename: assets/KR2f0002_001.markers.yaml, hash: 'sha256:96a952f72b59c7f822165cbf2a85e6ded74a7c1faec3ac2c4ead33b280792037'}
+  - {seq: 2, role: markers, filename: assets/KR2f0002_002.markers.yaml, hash: 'sha256:51b70e137d6351f5da449abdf0c3661503bc72ecf1ef63e54acda04bdf5c7aa4'}
+  - {seq: 3, role: markers, filename: assets/KR2f0002_003.markers.yaml, hash: 'sha256:d3f5c63568e7ebad920fe0ff0b23847283923517d8637823997ee077d49afc02'}
+  - {seq: 4, role: markers, filename: assets/KR2f0002_004.markers.yaml, hash: 'sha256:5d549dc49d72dbc7b37eb17ead4bc59a5f2664fd3320315f6dba2026845e0edf'}
+  - {seq: 5, role: markers, filename: assets/KR2f0002_005.markers.yaml, hash: 'sha256:1c97b115b0829d63dc91d25ddd1954357db059aca1bd26daedffcd9557f5305e'}
+  - {seq: 6, role: markers, filename: assets/KR2f0002_006.markers.yaml, hash: 'sha256:149b57dd685703bba7b787d81ba279b13e3aa3ead3ffd24a7824eb4cbeb64e5c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 461
+  label: 序康熙二十六年三月二十七日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-3a
+    span:
+    - body
+    - 461
+    - 1001
+  label: 序乾隆四年十月初十日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2f0002_WYG_000-5a
+    span:
+    - body
+    - 1001
+    - 1441
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2f0002_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4753
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2f0002_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 6209
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2f0002_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 3476
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2f0002_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 5561
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2f0002_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 5168
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2f0002_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 3971
+  label: 卷六
+  type: section
+  level: 1
+hash: sha256:d2aa5e690daf09f4720c84b0c072257cd472767a41362d5038f9593bfb3d4d54
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
